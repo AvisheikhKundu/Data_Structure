@@ -1,4 +1,4 @@
-/**
+/*
  * C program to insert new node at the end of a Singly Linked List
  */
 
