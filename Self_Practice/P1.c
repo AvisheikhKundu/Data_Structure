@@ -1,6 +1,7 @@
 //Question: Suppose, you are in a marriage ceremony to take food from the booth. Now, write a function in c using link list as a guest. Assume, you have a token where a serial number and name and groom side/bride side are given. Do it for 50 guests.
 
 
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
