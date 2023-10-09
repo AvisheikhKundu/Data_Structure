@@ -5,7 +5,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-
 /* Structure of a node */
 struct node {
     int data;          // Data 
