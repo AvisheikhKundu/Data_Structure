@@ -2,6 +2,7 @@
  * Stack implementation using array in C language.
  */
 
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <limits.h>     // For INT_MIN
@@ -76,7 +77,6 @@ int main()
 
     return 0;
 }
-
 
 
 /**
