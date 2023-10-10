@@ -1,6 +1,7 @@
-/**
+/*
  * Stack implementation using array in C language.
  */
+
 
 
 #include <stdio.h>
