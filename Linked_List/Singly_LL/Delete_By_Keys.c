@@ -1,4 +1,4 @@
-/**
+/*
  * C program to delete first node from Singly Linked List by key.
  */
 #include <stdio.h>
