@@ -1,4 +1,4 @@
-/**
+/*
  * C program to swap two nodes in a linked list.
  */
 #include <stdio.h>
@@ -185,7 +185,6 @@ int swap(struct node *list, int pos1, int pos2)
     {
         return 1;
     }
-
 
     // Identify both nodes to swap
     i = 1;
