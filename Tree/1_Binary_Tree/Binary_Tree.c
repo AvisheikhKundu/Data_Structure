@@ -66,6 +66,5 @@ int main(){
     printf("\nTreversed postorder\n");
     postorder(root);
 
-
     return 0;
 }
