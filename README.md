@@ -1,7 +1,7 @@
 ﻿# Data_Structure
 ![image](https://github.com/AvisheikhKundu/Data_Structure/assets/99108598/1bdcebc0-2b57-4667-90a9-94371252bafb)
 
- Linked List: https://lnkd.in/dbd3j9pi
+👉Linked List: https://lnkd.in/dbd3j9pi
 
 👉 Heap: https://lnkd.in/d8yMqiw9
 
