@@ -1,3 +1,5 @@
+
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
@@ -69,14 +71,14 @@ void freeList(node* head) {
 
 int main() {
     node* head = NULL;
-    head = insertNode(head, 10, "a");
-    head = insertNode(head, 20, "b");
-    head = insertNode(head, 30, "c");
-    head = insertNode(head, 40, "d");
-    head = insertNode(head, 50, "d");
-    head = insertNode(head, 60, "d");
-    head = insertNode(head, 70, "d");
-    head = insertNode(head, 80, "d");
+    head = insertNode(head, 100, "a");
+    head = insertNode(head, 200, "b");
+    head = insertNode(head, 300, "c");
+    head = insertNode(head, 400, "d");
+    head = insertNode(head, 500, "d");
+    head = insertNode(head, 600, "d");
+    head = insertNode(head, 700, "d");
+    head = insertNode(head, 800, "d");
 
     traversal(head);
     freeList(head);
