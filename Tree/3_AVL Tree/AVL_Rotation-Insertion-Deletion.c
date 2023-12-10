@@ -1,3 +1,5 @@
+
+
 #include <stdio.h>
 #include <stdlib.h>
 
@@ -170,7 +172,9 @@ struct node *insert(struct node *r, int data) {
             r->right = insert(r->right, data);
     }
 
+
     r->height = calheight(r);
+
 
     if (bf(r) == 2 && bf(r->left) == 1) {
         r = llrotation(r);
@@ -252,6 +256,7 @@ struct node *deleteNode(struct node *p, int data) {
             p->right = deleteNode(p->right, q->data);
         }
     }
+
 
     if (bf(p) == 2 && bf(p->left) == 1) {
         p = llrotation(p);
