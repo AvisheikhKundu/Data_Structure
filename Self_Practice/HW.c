@@ -80,6 +80,7 @@ int main() {
     head = insertNode(head, 700, "d");
     head = insertNode(head, 800, "d");
 
+
     traversal(head);
     freeList(head);
 
