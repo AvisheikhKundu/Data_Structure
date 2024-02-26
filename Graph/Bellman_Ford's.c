@@ -128,6 +128,9 @@ void bellmanford(struct Graph *g, int source) {
     }
   }
 
+
+
+
   //No negative weight cycle found!
   //print the distance and predecessor array
   printf("Distance array: ");
