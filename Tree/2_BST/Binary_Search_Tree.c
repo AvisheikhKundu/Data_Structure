@@ -40,6 +40,7 @@ int isBST(node *root){
     else 
     return 1;
 }
+
 int main(){
     node *p=createnode(5);
     node *p1=createnode(3);
