@@ -43,6 +43,7 @@ int main(void) {
 		w is the weight of the edge (u,v)
 	*/
 
+	
   //edge 0 --> 1
   g->edge[0].u = 0;
   g->edge[0].v = 1;
@@ -97,6 +98,7 @@ void bellmanford(struct Graph *g, int source) {
     p[i] = 0;
   }
 
+	
   //mark the source vertex
   d[source] = 0;
 
