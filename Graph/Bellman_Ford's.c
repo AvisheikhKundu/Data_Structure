@@ -21,8 +21,6 @@ struct Graph {
 
 
 
-
-
 void bellmanford(struct Graph *g, int source);
 void display(int arr[], int size);
 
