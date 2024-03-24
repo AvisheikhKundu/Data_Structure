@@ -73,6 +73,7 @@ int main(void) {
   return 0;
 }
 
+
 void bellmanford(struct Graph *g, int source) {
   //variables
   int i, j, u, v, w;
